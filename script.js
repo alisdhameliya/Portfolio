@@ -8,7 +8,7 @@ imageMain?.addEventListener("mousemove", function (e) {
     x: `${xMove * 0.4}%`,
   });
 
-  gsap.to(".sky", {
+  gsap.to(".img-alis", {
     x: xMove,
   });
 

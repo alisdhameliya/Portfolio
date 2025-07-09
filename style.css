@@ -357,7 +357,7 @@ nav svg {
 }
 
 .text {
-  font-size: 120px;
+  font-size: 12vw;
   position: absolute;
   color: rgba(255, 0, 0, 0.313);
   -webkit-text-stroke: 2px salmon;
@@ -1118,6 +1118,10 @@ nav svg {
 
 .linkedin {
   color: #51cde7;
+}
+
+.link:hover {
+  cursor: pointer;
 }
 
 footer {
