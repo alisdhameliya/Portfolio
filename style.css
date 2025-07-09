@@ -337,6 +337,8 @@ nav svg {
   font-size: 3.7vmax;
   margin-bottom: 2.3vmax;
   text-align: center;
+  align-items: center;
+  vertical-align: center;
 }
 
 #image-div {
